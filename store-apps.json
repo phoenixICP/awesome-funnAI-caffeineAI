@@ -1,0 +1,36 @@
+{
+    "apps": [
+        {
+            "name": "funnai example app 1",
+            "url": "https://funnai-example.caffeine.xyz/",
+            "description": "funnAI example app showcasing CaffeineAI integration",
+            "thumbnail": "https://example.com/images/example.png",
+            "logo": "https://example.com/images/example.jpg",
+            "creator_openchat": "@onicaiHQ",
+            "creator_x": "@onicaiHQ",
+            "tech_stack": [
+                "CaffeineAI",
+                "funnAI",
+                "React"
+            ],
+            "date_submitted": "2025-08-01",
+            "featured": true
+        },
+        {
+            "name": "funnai example app 2",
+            "url": "https://funnai-example.caffeine.xyz/",
+            "description": "Another funnAI example app demonstrating innovative AI features",
+            "thumbnail": "https://example.com/images/example.png",
+            "logo": "https://example.com/images/example.jpg",
+            "creator_openchat": "@onicaiHQ",
+            "creator_x": "@onicaiHQ",
+            "tech_stack": [
+                "CaffeineAI",
+                "funnAI",
+                "Vue.js"
+            ],
+            "date_submitted": "2025-08-01",
+            "featured": true
+        }
+    ]
+}

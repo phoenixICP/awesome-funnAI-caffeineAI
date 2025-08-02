@@ -1,6 +1,10 @@
 # 🏆 funnAI x CaffeineAI Community Challenge
 
-Welcome to the official submission repository for the **funnAI x CaffeineAI Community Challenge**! 
+Welco- Screenshots/demos (optional but recommended)
+
+## 📝 How to Add Your Submission
+
+Edit the `store-apps.json` file and add your app to the `apps` array using the following format: the official submission repository for the **funnAI x CaffeineAI Community Challenge**! 
 
 Build something cool with [CaffeineAI](https://caffeine.ai), integrate it with [funnAI](https://funnai.onicai.com), and compete for amazing prizes! 🦜☕
 
@@ -30,13 +34,13 @@ Don't wait till the last sip! ☕
 
 Your submission must:
 1. **Use CaffeineAI**: Built with CaffeineAI
-2. **Integrate with funnAI**: Must have funnAI related integration or functionality
+2. **Related to funnAI**: Must have funnAI related integration or functionality
 3. **Be functional**: Working dApp that can be accessed and tested
 
 ## 🚀 How to Submit
 
 1. **Fork this repository**
-2. **Add your submission** to the submissions table below
+2. **Edit the `store-apps.json` file** to add your submission
 3. **Create a Pull Request** with your submission details
 
 ### PR Title Format:
@@ -50,26 +54,6 @@ Submission: [Your dApp Name] by @[YourHandle]
 - How it integrates with funnAI
 - Any special setup instructions
 - Screenshots/demos (optional but recommended)
-
-## 📊 Current Submissions
-
-| dApp Name | URL | Description | Thumbnail | Logo | Creator (OpenChat) | Creator (X) | 
-|-----------|-----|-------------|-----------|------|-------------------|------------------|
-| *Your awesome dApp here* | *https://funnai-awesome-app.caffeine.xyz/* | *Brief description* | *![thumb](url)* | *![logo](url)* | *@yourhandle* | *@yourtwitter* | 
-
-> **Note**: To add your submission, edit this table and create a PR!
-
-
-
-### Guidelines for Each Column:
-
-- **dApp Name**: Keep it concise and memorable
-- **URL**: Direct link to your working dApp
-- **Description**: 1-2 sentences explaining functionality and value
-- **Thumbnail**: We will use this when showcasing your dApp
-- **Logo**: Your dApp's logo/icon (optional)
-- **Creator (OpenChat)**: Your OpenChat handle with @ prefix
-- **Creator (X)**: Your X handle with @ prefix  
 
 ## 🔍 Judging Criteria
 
