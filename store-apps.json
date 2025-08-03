@@ -24,8 +24,8 @@
             "name": "Funnalyzer",
             "url": "https://funnalyzer-f97.caffeine.xyz",
             "description": "Live dashboard for tracking FUNNAI protocol treasury balances using CaffeineAI and on-chain data.",
-            "thumbnail": "https://example.com/images/example.png",
-            "logo": "https://example.com/images/example.jpg",
+            "thumbnail": "https://res.cloudinary.com/dmucdcc70/image/upload/v1754185461/funalyzer-dashboard_e8orlx.png",
+            "logo": "https://res.cloudinary.com/dmucdcc70/image/upload/v1754184745/funnalyzer-logo_tkxw5f.png",
             "creator_openchat": "@aespieux",
             "creator_x": "@Akustyl",
             "featured": true
