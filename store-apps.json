@@ -19,6 +19,17 @@
             "creator_openchat": "@onicaiHQ",
             "creator_x": "@onicaiHQ",
             "featured": true
+        },
+        {
+            "name": "Funnalyzer",
+            "url": "https://funnalyzer-f97.caffeine.xyz",
+            "description": "Live dashboard for tracking FUNNAI protocol treasury balances using CaffeineAI and on-chain data.",
+            "thumbnail": "https://example.com/images/example.png",
+            "logo": "https://example.com/images/example.jpg",
+            "creator_openchat": "@aespieux",
+            "creator_x": "@Akustyl",
+            "featured": true
         }
     ]
+
 }
