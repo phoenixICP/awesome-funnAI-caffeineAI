@@ -1,26 +1,6 @@
 {
     "apps": [
         {
-            "name": "funnai example app 1",
-            "url": "https://funnai-example-1.caffeine.xyz/",
-            "description": "example app showcasing funnAI & CaffeineAI",
-            "thumbnail": "https://example.com/images/example.png",
-            "logo": "https://example.com/images/example.jpg",
-            "creator_openchat": "@onicaiHQ",
-            "creator_x": "@onicaiHQ",
-            "featured": true
-        },
-        {
-            "name": "funnai example app 2",
-            "url": "https://funnai-example-2.caffeine.xyz/",
-            "description": "Another example app showcasing funnAI & CaffeineAI",
-            "thumbnail": "https://example.com/images/example.png",
-            "logo": "https://example.com/images/example.jpg",
-            "creator_openchat": "@onicaiHQ",
-            "creator_x": "@onicaiHQ",
-            "featured": true
-        },
-        {
             "name": "Funnalyzer",
             "url": "https://funnalyzer-f97.caffeine.xyz",
             "description": "Live dashboard for tracking FUNNAI protocol treasury balances using CaffeineAI and on-chain data.",
