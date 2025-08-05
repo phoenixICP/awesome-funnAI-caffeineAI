@@ -9,6 +9,16 @@
             "creator_openchat": "@aespieux",
             "creator_x": "@Akustyl",
             "featured": true
+        },
+        {
+            "name": "FunnAI-Lympics",
+            "url": "https://funnai-mpt-kbz.caffeine.xyz/",
+            "description": "FunnAI challenge tracker, recent winner tracker and mAIner performance tracker with olympic medal style leaderboards. Built using CaffeineAI and on-chain data.",
+            "thumbnail": "",
+            "logo": "",
+            "creator_openchat": "@kevloui",
+            "creator_x": "@MajesticLoui",
+            "featured": true
         }
     ]
 
