@@ -19,6 +19,16 @@
             "creator_openchat": "@kevloui",
             "creator_x": "@MajesticLoui",
             "featured": true
+        },
+        {
+            "name": "Funnai Oracle Advisor",
+            "url": "https://oracleadvisor-funnai-jwt.caffeine.xyz",
+            "description": "Advanced AI-driven advisory tool with predictions and price alerts based on funnAI on-chain data. Built using CaffeineAI.",
+            "thumbnail": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585102/phoenix_icp_mrtrkb.png",
+            "logo": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585091/Oracle_aki3s5.png",
+            "creator_openchat": "@phoenix_icp33",
+            "creator_x": "@phoenix_icp",
+            "featured": true
         }
     ]
 
