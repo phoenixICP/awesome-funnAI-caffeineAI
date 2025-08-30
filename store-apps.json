@@ -20,14 +20,15 @@
             "creator_x": "@MajesticLoui",
             "featured": true
         }, 
-         "name": "Funnai Oracle Advisor",
+        {
+           "name": "Funnai Oracle Advisor",
             "url": "https://oracleadvisor-funnai-jwt.caffeine.xyz",
             "description": "Advanced AI-driven advisory tool with predictions and price alerts based on funnAI on-chain data. Built using CaffeineAI.",
-            "caffeineAI": "The application leverages CaffeineAI for advanced AI-driven insights, predictions, and trend analysis. CaffeineAI powers the conversational assistant, enabling complex queries about treasury data, market analysis, and financial calculations, while also supporting risk scoring and portfolio analysis based on real-time and historical data.",
-            "funnAI": "The application integrates with funnAI by fetching real-time and historical FUNNAI token data via canister queries to the ledger (vpyot-zqaaa-aaaaa-qavaq-cai) and retrieving live price data from the GeckoTerminal API. It provides analytics on treasury composition, token distribution, and transaction patterns, with AI-driven behavioral risk analysis and predictions based on funnAI data.",
+            "thumbnail": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585102/phoenix_icp_mrtrkb.png",
+            "logo": "https://res.cloudinary.com/dv9bzxyga/image/upload/v1756585091/Oracle_aki3s5.png",
             "creator_openchat": "@phoenix_icp33",
             "creator_x": "@phoenix_icp",
             "featured": true
-  
+            ]
 
 }
