@@ -19,6 +19,16 @@
             "creator_openchat": "@kevloui",
             "creator_x": "@MajesticLoui",
             "featured": true
+        },
+        {
+            "name": "🦜 Angry Aira 🪙 XTC Blaster",
+            "url": "https://angry-aira-nyn.caffeine.xyz/",
+            "description": "A 2D physics-based game inspired by Angry Birds where players launch XTC coins from a slingshot to destroy structures and defeat enemies. Features a complete game experience with menus, level progression, scoring system, and enhanced visual effects.",
+            "thumbnail": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "logo": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "creator_openchat": "@cryptodicted",
+            "creator_x": "@cryptodicted",
+            "featured": true
         }
     ]
 
