@@ -19,6 +19,16 @@
             "creator_openchat": "@kevloui",
             "creator_x": "@MajesticLoui",
             "featured": true
+        },
+        {
+            "name": "FUNNAI Mint Status & Explorer",
+            "url": "https://funnai-mint-z20.caffeine.xyz/",
+            "description": "FUNNAI Mint Status & Explorer displays the minting activity of FUNNAI tokens over the past 6 hours, showing up to 250 mint transactions. Users can also search by Principal ID to check the latest FUNNAI token balance.",
+            "thumbnail": "https://raw.githubusercontent.com/tagoso/asset/628711aa3bb5c1db95d99fc704eb40a7f6302175/CleanShot%202568-09-01%20at%2013.11.42%402x.png",
+            "logo": "https://raw.githubusercontent.com/tagoso/asset/refs/heads/main/CleanShot%202568-09-01%20at%2013.12.14%402x.png",
+            "creator_openchat": "@tagoso",
+            "creator_x": "@tagoso",
+            "featured": false
         }
     ]
 
