@@ -29,6 +29,34 @@
             "creator_openchat": "@phoenix_icp33",
             "creator_x": "@phoenix_icp",
             "featured": true
-            ]
+
+        },
+        {
+            "name": "Flapp-AI",
+            "url": "https://flappai-29d.caffeine.xyz/",
+            "description": "Flapp-AI is a fun, arcade style mobile/desktop game built for the funnAI community. Players take control of a parrot and avoid obstacles in space while competing for the highest score. PLayers can choose different characters, including Aira the parrot herself who has her own personal map where she goes mining in a spiky cave for even more fun. The game has mining themes to fit funnAI's identity and its fun gameplay encourages players to compete for the highest spot on the leaderboard. It's like Flappy Bird but even better; also the funnAI logo is included in the game and clicking on it will take you to the website.",
+            "thumbnail": "https://drive.google.com/file/d/1X_XuTBKRR1LaAAr9jRcXM2Ewbtl9pM1P/view?usp=sharing",
+            "logo": "https://drive.google.com/file/d/1lNuuhfY7hEenbQf56040SZwYKhCwIzLf/view?usp=sharing",
+            "creator_openchat": "@bavier",
+            "creator_x": "@Bavunda",
+            "featured": true
+        },
+            "name": "🦜 Angry Aira 🪙 XTC Blaster",
+            "url": "https://angry-aira-nyn.caffeine.xyz/",
+            "description": "A 2D physics-based game inspired by Angry Birds where players launch XTC coins from a slingshot to destroy structures and defeat enemies. Features a complete game experience with menus, level progression, scoring system, and enhanced visual effects.",
+            "thumbnail": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "logo": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "creator_openchat": "@cryptodicted",
+            "creator_x": "@cryptodicted",
+            "featured": true
+        },
+            "name": "FUNNAI Mint Status & Explorer",
+            "url": "https://funnai-mint-z20.caffeine.xyz/",
+            "description": "FUNNAI Mint Status & Explorer displays the minting activity of FUNNAI tokens over the past 6 hours, showing up to 250 mint transactions. Users can also search by Principal ID to check the latest FUNNAI token balance.",
+            "thumbnail": "https://raw.githubusercontent.com/tagoso/asset/628711aa3bb5c1db95d99fc704eb40a7f6302175/CleanShot%202568-09-01%20at%2013.11.42%402x.png",
+            "logo": "https://raw.githubusercontent.com/tagoso/asset/refs/heads/main/CleanShot%202568-09-01%20at%2013.12.14%402x.png",
+            "creator_openchat": "@tagoso",
+            "creator_x": "@tagoso",
+            "featured": false
         }
 }
