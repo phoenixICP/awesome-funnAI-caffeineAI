@@ -21,6 +21,15 @@
             "featured": true
         },
         {
+            "name": "🦜 Angry Aira 🪙 XTC Blaster",
+            "url": "https://angry-aira-nyn.caffeine.xyz/",
+            "description": "A 2D physics-based game inspired by Angry Birds where players launch XTC coins from a slingshot to destroy structures and defeat enemies. Features a complete game experience with menus, level progression, scoring system, and enhanced visual effects.",
+            "thumbnail": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "logo": "https://i.ibb.co/B5NHW2r3/angry-aira-nyn-caffeine-xyz.png",
+            "creator_openchat": "@cryptodicted",
+            "creator_x": "@cryptodicted",
+            "featured": true
+        },
             "name": "FUNNAI Mint Status & Explorer",
             "url": "https://funnai-mint-z20.caffeine.xyz/",
             "description": "FUNNAI Mint Status & Explorer displays the minting activity of FUNNAI tokens over the past 6 hours, showing up to 250 mint transactions. Users can also search by Principal ID to check the latest FUNNAI token balance.",
